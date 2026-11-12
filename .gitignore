@@ -1,0 +1,5 @@
+# Private company files. This repo is PUBLIC (it serves xii-studio.io).
+# Nothing under company/ may ever be committed.
+company/
+*.mp4
+.DS_Store
