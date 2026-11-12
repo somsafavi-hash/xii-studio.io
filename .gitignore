@@ -3,3 +3,5 @@
 company/
 *.mp4
 .DS_Store
+CLAUDE.local.md
+.claude/
